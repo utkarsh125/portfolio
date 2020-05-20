@@ -1,0 +1,70 @@
+body{
+  background-color: #f7f7f7;
+}
+/* First part */
+
+#ti{
+  font-family: 'Poppins', sans-serif;
+  padding: 0% 10%;
+  padding-top: 7%;
+  padding-bottom: 2%;
+}
+.d1{
+  margin: 0;
+}
+#para1{
+  padding: 0% 10%;
+  font-family: 'Raleway', sans-serif;
+}
+.p2{
+  margin: 0;
+}
+a{
+  text-decoration: none;
+  color: #f40552;
+  font-weight: 500;
+}
+.plite{
+  font-weight: 200;
+}
+.pnorm{
+  font-weight: 300;
+}
+.box{
+  padding: 3% 0%;
+}
+.inbox{
+  padding: 3% 0%;
+}
+.div2{
+  position: relative;
+}
+.minimal{
+  position: absolute;
+  left: 50%;
+  top: 30%;
+}
+.img1{
+  position: relative;
+  height: 50%;
+  width: 50%;
+}
+h4{
+  font-family: 'Raleway', sans-serif;
+  color: #f40552;
+}
+/* skilss */
+#skills{
+  font-family: 'Poppins', sans-serif;
+  padding: 2% 10%;
+}
+.box2{
+  font-family: 'Raleway', sans-serif;
+}
+.col-lg-6{
+  padding: 3% 0%;
+}
+#third{
+  font-family: 'Poppins', sans-serif;
+  padding: 2% 10%;
+}

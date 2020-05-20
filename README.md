@@ -1,2 +1,2 @@
 # portfolio
-Free to use for newbies
+Just copy and paste the code into your website and make some minor tweaks!

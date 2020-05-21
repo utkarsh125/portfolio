@@ -72,5 +72,7 @@ h4{
 #ending{
   font-family: 'Poppins', sans-serif;
   padding: 2% 10%;
-  text-align: right;
+  text-align: center;
+  background-color: #f40552;
+  color: #fff;
 }

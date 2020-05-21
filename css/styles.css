@@ -48,6 +48,7 @@ a{
   position: relative;
   height: 50%;
   width: 50%;
+  left: inherit;
 }
 h4{
   font-family: 'Raleway', sans-serif;
@@ -67,4 +68,9 @@ h4{
 #third{
   font-family: 'Poppins', sans-serif;
   padding: 2% 10%;
+}
+#ending{
+  font-family: 'Poppins', sans-serif;
+  padding: 2% 10%;
+  text-align: right;
 }
